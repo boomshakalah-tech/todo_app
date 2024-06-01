@@ -11,6 +11,7 @@ A simple ToDo application built with Flutter.
 - Delete tasks
 - Filter tasks (All, Active, Completed)
 - Persist data locally
+- Sort listed task ascending or descingding order
 
 ## Screenshots
 
